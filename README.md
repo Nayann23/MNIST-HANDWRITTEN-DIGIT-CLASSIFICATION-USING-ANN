@@ -25,13 +25,15 @@ Each image is 28x28 pixels in size. 🖼️
 
 ## 🛠️ How to Install Requirements  
 Install all necessary packages using pip:  
-```bash
+
 pip install -r requirements.txt
 
 ## ▶️ How to Run  
 Open `MNIST.ipynb` in Jupyter Notebook or JupyterLab. 💻
 
 Run all cells to train and evaluate the ANN model on the MNIST dataset. 🏃‍♂️
+
+---
 
 ## 🎯 Conclusion  
 This notebook demonstrates a simple yet effective ANN for handwritten digit classification with strong performance. It can serve as a foundation for more advanced image recognition tasks. 🌟
